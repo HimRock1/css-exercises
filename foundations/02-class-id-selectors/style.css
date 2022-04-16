@@ -1,0 +1,16 @@
+p {
+   background-color: rgb(255, 175, 161);
+   font-family: Verdana, DejaVu Sans, sans-serif; 
+}
+#second {
+    color: hsla(214, 100%, 50%, 1);
+    font-size: 36px;
+}
+.cooler {
+    font-size: 24px;
+}
+#fourth{
+    background-color: #00f090;
+    font-size: 24px;
+    font-weight: bold;
+}
